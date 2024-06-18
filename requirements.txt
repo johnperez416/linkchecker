@@ -7,3 +7,4 @@ argcomplete
 #pyftpdlib
 # for building on osx:
 #py2app
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
